@@ -1,2 +1,2 @@
-# Privacy-Policy
-Privacy Policy for DISBET - Discord betting bot
+# DISBET
+Welcome to the future of online betting, now on discord
